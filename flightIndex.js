@@ -9,5 +9,5 @@ app.use('/flights', flightsRoutes)
 
 // Ecoute du serveur sur le port 5000
 app.listen(5000, () => {
-    console.log("Ecoute sur le port 5000...")
+    console.log("Ecoute en cours sur le port 5000...")
 })
